@@ -99,23 +99,19 @@ Payment Completion
 
 ---
 
-## Contact 
-Fardin Imran Shaikh
-Data Analytics • AI • IoT • Computer Vision
-
- Portfolio: https://rudrabagul.github.io/RudraMaheshBagul/
-
- LinkedIn: https://www.linkedin.com/in/rudra-bagul-457292373/
-
- Youtube: https://www.youtube.com/@official_RudraBagul
+## Contact :
+RUDRA MAHESH BAGUL
+- Portfolio: https://rudrabagul.github.io/RudraMaheshBagul/
+- LinkedIn: https://www.linkedin.com/in/rudra-bagul-457292373/
+- Youtube: https://www.youtube.com/@official_RudraBagul
 
 
  ---
 
  ## Other Projects
- -Mangalam Goat Farm- https://github.com/RudraBagul/Mangalam-Goat-Farm 
- -Airawat Cabs- https://github.com/RudraBagul/Airawat_Cabs
- -ATM Software- https://github.com/RudraBagul/ATM-Software
+ - Mangalam Goat Farm- https://github.com/RudraBagul/Mangalam-Goat-Farm 
+ - Airawat Cabs- https://github.com/RudraBagul/Airawat_Cabs
+ - ATM Software- https://github.com/RudraBagul/ATM-Software
 
  ---
-     "Don't forget to give star if u understand anything"
+  Don't forget to give star if u understand anything
