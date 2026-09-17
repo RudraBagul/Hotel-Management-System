@@ -14,8 +14,8 @@ https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ---
 
 ## 📊 Project Preview
+<img width="476" height="730" alt="Screenshot 2026-09-17 201032" src="https://github.com/user-attachments/assets/361fc378-87db-40a1-8268-693a85ea5f8e" />
 
-(HMS v1.0.png)
 
 ---
 
