@@ -8,7 +8,7 @@ The system also includes input validation to handle invalid responses and ensure
 Overall, the project demonstrates how Python OOP concepts, decision-making, input validation, order processing, and payment management can be combined to create a practical hotel automation system.
 ### Python OOP-Based Hotel Automation System
 
-![Python]( `OOP` `Food Ordering` `Input Validation` `Billing` `Split Payment`
+`Python` `OOP` `Food Ordering` `Input Validation` `Billing` `Split Payment`
 
 ---
 
