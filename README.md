@@ -15,7 +15,7 @@ https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 ## 📊 Project Preview
 
-![Hotel Management System](images/preview.png)
+HMS v1.0.png
 
 ---
 
