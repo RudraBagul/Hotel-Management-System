@@ -15,7 +15,7 @@ https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 ## 📊 Project Preview
 
-HMS v1.0.png
+(HMS v1.0.png)
 
 ---
 
